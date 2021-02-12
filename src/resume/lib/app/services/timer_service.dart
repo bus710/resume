@@ -11,7 +11,7 @@ class TimerService extends GetxService {
   Function _f;
 
   Future<TimerService> init() async {
-    _timer = Timer.periodic(Duration(milliseconds: 2000), _timerHandler);
+    _timer = Timer.periodic(Duration(milliseconds: 10000), _timerHandler);
     _f = null;
     return this;
   }
