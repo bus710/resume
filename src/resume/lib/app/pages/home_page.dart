@@ -24,33 +24,64 @@ class HomePage extends StatelessWidget {
 
   Widget _getBody(BuildContext context, HomePageController controller) {
     return Container(
-      color: Colors.grey[700],
-      child: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        mainAxisAlignment: MainAxisAlignment.start,
-        children: [
-          // Obx(() => Text(controller.count.toString())),
-          // Container(height: 20),
-          // FlatButton(
-          //   onPressed: () {
-          //     controller.increment();
-          //   },
-          //   child: Text('Add 1'),
-          // ),
-          // Container(height: 20),
-          // FlatButton(
-          //   onPressed: () {
-          //     controller.getToAbout();
-          //   },
-          //   child: Text('To about'),
-          // ),
+      color: Colors.white,
+      width: MediaQuery.of(context).size.width,
+      height: MediaQuery.of(context).size.height,
+      padding: EdgeInsets.all(20),
+      child: SingleChildScrollView(
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          mainAxisAlignment: MainAxisAlignment.start,
+          children: [
+            // Obx(() => Text(controller.count.toString())),
+            // Container(height: 20),
+            // FlatButton(
+            //   onPressed: () {
+            //     controller.increment();
+            //   },
+            //   child: Text('Add 1'),
+            // ),
+            // Container(height: 20),
+            // FlatButton(
+            //   onPressed: () {
+            //     controller.getToAbout();
+            //   },
+            //   child: Text('To about'),
+            // ),
 
-          _getProfile(context),
-          _getSkills(),
-          _getExperiences(),
-          _getEducations(),
-          _getProjects(),
-        ],
+            // _getProfile(context),
+            // _getSkills(),
+            // _getExperiences(),
+            // _getEducations(),
+            // _getProjects(),
+            _getOutline(context),
+          ],
+        ),
+      ),
+    );
+  }
+
+  Widget _getOutline(BuildContext context) {
+    return Container(
+      width: 1024,
+      height: 1280,
+      padding: EdgeInsets.all(5),
+      child: DecoratedBox(
+        decoration: BoxDecoration(
+          color: Colors.white,
+          borderRadius: BorderRadius.circular(7),
+          boxShadow: [
+            BoxShadow(
+              color: Colors.grey.withOpacity(0.5),
+              blurRadius: 5,
+              spreadRadius: 5,
+              offset: Offset(0, 2),
+            ),
+          ],
+        ),
+        child: Column(
+          children: [_getProfile(context)],
+        ),
       ),
     );
   }
@@ -58,7 +89,7 @@ class HomePage extends StatelessWidget {
   Widget _getProfile(BuildContext context) {
     return Container(
       width: MediaQuery.of(context).size.width,
-      color: Colors.grey[500],
+      color: Colors.white,
       child: ConstrainedBox(
         constraints: BoxConstraints(minWidth: 768, maxWidth: 1024),
         child: Center(
