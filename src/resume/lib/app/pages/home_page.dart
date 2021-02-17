@@ -24,14 +24,14 @@ class HomePage extends StatelessWidget {
 
   Widget _getBody(BuildContext context, HomePageController controller) {
     return Container(
-      color: Colors.white,
+      color: Colors.grey[100],
       width: MediaQuery.of(context).size.width,
       height: MediaQuery.of(context).size.height,
       padding: EdgeInsets.all(20),
       child: SingleChildScrollView(
         child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
           mainAxisAlignment: MainAxisAlignment.start,
+          crossAxisAlignment: CrossAxisAlignment.center,
           children: [
             // Obx(() => Text(controller.count.toString())),
             // Container(height: 20),
@@ -60,11 +60,11 @@ class HomePage extends StatelessWidget {
     return Container(
       width: 1024,
       // height: 1280,
-      padding: EdgeInsets.all(5),
+      padding: EdgeInsets.fromLTRB(10, 20, 10, 20),
       child: DecoratedBox(
         decoration: BoxDecoration(
           color: Colors.white,
-          borderRadius: BorderRadius.circular(7),
+          borderRadius: BorderRadius.circular(20),
           boxShadow: [
             BoxShadow(
               color: Colors.grey.withOpacity(0.5),
@@ -76,9 +76,11 @@ class HomePage extends StatelessWidget {
         ),
         child: Column(
           children: [
+            Container(height: 20),
             _getProfile(context),
-            Divider(indent: 20, endIndent: 20),
-            // _getAbout(),
+            Divider(indent: 50, endIndent: 50),
+            _getAbout(context),
+            Container(height: 20),
             // _getSkills(),
             // _getExperiences(),
             // _getEducations(),
@@ -117,7 +119,7 @@ class HomePage extends StatelessWidget {
                     children: [
                       Container(height: 10),
                       Text("SJ Kim",
-                          style: Theme.of(context).textTheme.headline4),
+                          style: Theme.of(context).textTheme.headline3),
                       Container(height: 10),
                       Text(
                           "A gopher in the clouds | Software Developer at Egnyte",
@@ -129,6 +131,35 @@ class HomePage extends StatelessWidget {
                   ),
                 ),
                 Container(width: 30),
+              ],
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+
+  Widget _getAbout(BuildContext context) {
+    return Container(
+      width: MediaQuery.of(context).size.width,
+      color: Colors.white,
+      child: ConstrainedBox(
+        constraints: BoxConstraints(minWidth: 768, maxWidth: 1024),
+        child: Center(
+          child: Container(
+            color: Colors.white,
+            width: 1024,
+            height: 180,
+            margin: EdgeInsets.all(40),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text("About", style: Theme.of(context).textTheme.headline4),
+                Container(height: 10),
+                Text(
+                    "Currently working in a cloud solution company as a full stack developer. Skilled in Go based back end, Flutter based front end, and cloud platforms. Strong engineering professional with a Master’s Degree focused in Electrical Computer Engineering from California State University-Los Angeles.",
+                    style: Theme.of(context).textTheme.subtitle1,
+                    textAlign: TextAlign.justify),
               ],
             ),
           ),
