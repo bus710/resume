@@ -49,11 +49,6 @@ class HomePage extends StatelessWidget {
             //   child: Text('To about'),
             // ),
 
-            // _getProfile(context),
-            // _getSkills(),
-            // _getExperiences(),
-            // _getEducations(),
-            // _getProjects(),
             _getOutline(context),
           ],
         ),
@@ -64,7 +59,7 @@ class HomePage extends StatelessWidget {
   Widget _getOutline(BuildContext context) {
     return Container(
       width: 1024,
-      height: 1280,
+      // height: 1280,
       padding: EdgeInsets.all(5),
       child: DecoratedBox(
         decoration: BoxDecoration(
@@ -80,7 +75,15 @@ class HomePage extends StatelessWidget {
           ],
         ),
         child: Column(
-          children: [_getProfile(context)],
+          children: [
+            _getProfile(context),
+            Divider(indent: 20, endIndent: 20),
+            // _getAbout(),
+            // _getSkills(),
+            // _getExperiences(),
+            // _getEducations(),
+            // _getProjects(),
+          ],
         ),
       ),
     );
@@ -110,8 +113,18 @@ class HomePage extends StatelessWidget {
                 Container(width: 30),
                 Expanded(
                   child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
-                      Text("Profile"),
+                      Container(height: 10),
+                      Text("SJ Kim",
+                          style: Theme.of(context).textTheme.headline4),
+                      Container(height: 10),
+                      Text(
+                          "A gopher in the clouds | Software Developer at Egnyte",
+                          style: Theme.of(context).textTheme.subtitle1),
+                      Container(height: 10),
+                      Text("Carlsbad, California",
+                          style: Theme.of(context).textTheme.subtitle1),
                     ],
                   ),
                 ),
