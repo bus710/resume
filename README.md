@@ -1,7 +1,7 @@
 # SJ (Seongjun) Kim 
-- Carlsbad, CA, 92010
 - Software Developer (Go, Flutter, and cloud platforms) + MSEE with 6 years of experience.
 - LinkedIn Profile: [https://www.linkedin.com/in/bus710/](https://www.linkedin.com/in/bus710/)
+- Carlsbad, CA, 92010
 
 <br/>
 
