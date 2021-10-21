@@ -8,8 +8,8 @@
 ## Experiences
 
 ### Egnyte - SDE III (Full time - Remote / Jan 2021 - Present)
-- Developed Go based cloud services to interact with several types of clients and 3rd party cloud infrastructure platforms. Analyzed and enhanced the performance by using various tools like debugger and profiler.
-- Led the BDD (Behavior Driven Development) culture in the team to improve the cross functional collaborations.
+- Worked as a software developer in the Migrations team. 
+- Developed Go based cloud services to interact with several types of clients and 3rd party cloud infrastructure platforms. Analyzed and enhanced the performance by using various tools like debugger and profiler. Evaluated 3rd party packages/services for logging and monitoring. Led the TDD (Test Driven Development) culture in the team to improve the cross functional collaborations.
 
 ### HP Inc. - SDE II (Contract - Remote / May 2019 - Jan 2021)
 - Worked as a software developer in the Retails solution team. 
@@ -17,8 +17,8 @@
 - Used containerization tools to design clean architecture of microservices and distributed it to cloud services. Led the TDD culture in the team for high quality source code of the actual services.
 
 ### Legrand-Wattstopper - SDE II (Full time - Carlsbad, CA / June 2016 - May 2019)
-- Developed Go based high performance system automation projects for services (REST/WebSocket) and internal tools with Electron (html, css, and js) based desktop GUI for customers. Debugged/tested/deployed/documented software (+APIs) by using Delve, Postman, Docker, and Swagger/Swaggo. 
 - Developed STM32 and nRF52 based real time projects by using C. Worked on board bringing up for RTOS and BLE projects. Refined the protocols between the high and low level systems as JSON to boost the communication efficiency. 
+- Developed firmware test automation utilities with Go and internal GUI tools with Electron (html, css, and js) for customers. Debugged/tested/deployed/documented software (+APIs) by using Delve, Postman, Docker, and Swagger/Swaggo. 
  
 ### ABOV Semicon - SDE I (Full time - Seoul, Korea / Apr 2011 - Apr 2014)
 - Developed ABOV’s MCU based software by using C for automotive and digital appliance products. Designed digital circuits with 8 bit and 32 bit MCU system. 
