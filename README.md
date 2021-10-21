@@ -16,13 +16,14 @@
 - Developed Go/Docker based services and Flutter (with MVVM and BLoC) based Android/Web apps for integrated customer services of retail stores. Utilized several protocols (REST, Websocket, MQTT, ZMQ, and gRPC) for massive but precise data transfer between job sites and cloud to collect data. 
 - Used containerization tools to design clean architecture of microservices and distributed it to cloud services. Led the TDD culture in the team for high quality source code of the actual services.
 
-### Legrand-Wattstopper - SDE II (Full time - Carlsbad, CA / June 2016 - May 2019)
+### Legrand-Wattstopper - SDE II (Contract => Full time - Carlsbad, CA / June 2016 - May 2019)
+- Worked as a firmware/software developer in the Lightings device team. 
 - Developed STM32 and nRF52 based real time projects by using C. Worked on board bringing up for RTOS and BLE projects. Refined the protocols between the high and low level systems as JSON to boost the communication efficiency. 
 - Developed firmware test automation utilities with Go and internal GUI tools with Electron (html, css, and js) for customers. Debugged/tested/deployed/documented software (+APIs) by using Delve, Postman, Docker, and Swagger/Swaggo. 
  
 ### ABOV Semicon - SDE I (Full time - Seoul, Korea / Apr 2011 - Apr 2014)
-- Developed ABOV’s MCU based software by using C for automotive and digital appliance products. Designed digital circuits with 8 bit and 32 bit MCU system. 
-- Developed Python based digital sensor test system that reduced the testing time of new digital ambient light sensor series from months to hours.
+- Worked as a software developer in the field service team. 
+- Developed ABOV’s MCU based software by using C for automotive and digital appliance products. Designed digital circuits with 8 bit and 32 bit MCU system. Developed Python based digital sensor test system that reduced the testing time of new digital ambient light sensor series from months to hours.
 
 <div style="page-break-after: always;"></div>
 
