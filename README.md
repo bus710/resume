@@ -9,7 +9,8 @@
 
 ### Egnyte - SDE III (Jan 2021 - Present)
 - Worked as a software developer in the Migrations team. 
-- Developed Go based cloud services to interact with several types of clients and 3rd party cloud infrastructure platforms. Analyzed and enhanced the performance by using various tools like debugger and profiler. Evaluated 3rd party packages/services for logging and monitoring. Led the TDD (Test Driven Development) culture in the team to improve the cross functional collaborations.
+- Developed Go based cloud services to interact with several types of clients and 3rd party cloud infrastructure platforms. Evaluated 3rd party packages/services for logging and monitoring.
+- Developed cross platform client apps to interact with file sync services. Used FFI between high-level GUI apps and low-level Rust shared libraries for versatility. 
 
 ### HP Inc. - SDE II (May 2019 - Jan 2021)
 - Worked as a software developer in the Retails solution team. 
