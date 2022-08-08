@@ -7,7 +7,7 @@
 
 ## Experiences
 
-### Egnyte - SDE III (Jan 2021 - Present)
+### Egnyte - SDE III (Jan 2021 - Jul 2022)
 - Worked as a software developer in the Migrations team. 
 - Developed Go based cloud services to interact with several types of clients and 3rd party cloud infrastructure platforms. Evaluated 3rd party packages/services for logging and monitoring.
 - Developed cross platform client apps to interact with file sync services. Used FFI between high-level GUI apps and low-level Rust shared libraries for versatility. 
