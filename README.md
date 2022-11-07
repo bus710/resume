@@ -7,25 +7,26 @@
 
 ## Experiences
 
+### Twitter - SDE III (Sep 2022 - Present)
+- Wored as a software developer in the audio space team.
+- Developed Go based static analyzer tools to manage annotations for AWS DynamoDB.
+ 
 ### Egnyte - SDE III (Jan 2021 - Jul 2022)
 - Worked as a software developer in the Migrations team. 
-- Developed Go based cloud services to interact with several types of clients and 3rd party cloud infrastructure platforms. Evaluated 3rd party packages/services for logging and monitoring.
-- Developed cross platform client apps for internal tests to interact with file sync services. Used FFI between high-level GUI apps and low-level Rust shared libraries for versatility. 
+- Developed Go based cloud services to interact with several types of clients and 3rd party cloud infrastructure platforms. Evaluated 3rd party packages/services for logging and monitoring. Developed cross platform client apps for internal tests to interact with file sync services. Used FFI between high-level GUI apps and low-level Rust shared libraries for versatility. 
 
 ### HP Inc. - SDE II (May 2019 - Jan 2021)
 - Worked as a software developer in the Retails solution team. 
-- Developed Go/Docker based services and Flutter (with MVVM and BLoC) based Android/Web apps for integrated customer services of retail stores. Utilized several protocols (REST, Websocket, MQTT, ZMQ, and gRPC) for massive but precise data transfer between job sites and cloud to collect data. 
-- Used containerization tools to design clean architecture of microservices and distributed it to cloud services. Led the TDD culture in the team for high quality source code of the actual services.
+- Developed Go/Docker based services and Flutter (with MVVM and BLoC) based Android/Web apps for integrated customer services of retail stores. Utilized several protocols (REST, Websocket, MQTT, ZMQ, and gRPC) for massive but precise data transfer between job sites and cloud to collect data. Used containerization tools for MSA and distributed it to cloud services. Led the TDD culture in the team for high quality source code of the actual services.
 
 ### Legrand-Wattstopper - SDE II (Carlsbad, CA / June 2016 - May 2019)
 - Worked as a firmware/software developer in the Lightings device team. 
-- Developed STM32 and nRF52 based real time projects by using C. Worked on board bringing up for RTOS and BLE projects. Refined the protocols between the high and low level systems as JSON to boost the communication efficiency. 
-- Developed firmware test automation utilities with Go and internal GUI tools with Electron (html, css, and js) for customers. Debugged/tested/deployed/documented software (+APIs) by using Delve, Postman, Docker, and Swagger/Swaggo. 
+- Developed STM32 and nRF52 based real time projects by using C. Worked on board bringing up for RTOS and BLE projects. Improved the protocols between high and low level systems as JSON to boost the communication efficiency. Developed test automation utilities with Go and internal GUI tools with Electron. Debugged/tested/deployed/documented software (+APIs) by using Delve, Postman, Docker, and Swagger/Swaggo. 
  
 ### ABOV Semicon (and others) - SDE I (Seoul, Korea / Apr 2011 - Apr 2014)
 - Worked as a software developer in the field service team. 
-- Developed ABOV’s MCU based software by using C for automotive and digital appliance products. Designed digital circuits with 8 bit and 32 bit MCU system. Developed Python based digital sensor test system that reduced the testing time of new digital ambient light sensor series from months to hours.
-
+- Developed ABOV’s MCU based software by using C for automotive and digital appliance products. Designed digital circuits with 8 bit and 32 bit MCU system. 
+ 
 <div style="page-break-after: always;"></div>
 
 ## Educations
