@@ -8,7 +8,7 @@
 ## Experiences
 
 ### Twitter - SDE III (Sep 2022 - Present)
-- Wored as a software developer in the audio space team.
+- Worked as a software developer in the audio space team.
 - Developed Go based static analyzer tools to manage annotations for AWS DynamoDB.
  
 ### Egnyte - SDE III (Jan 2021 - Jul 2022)
