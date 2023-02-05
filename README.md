@@ -1,28 +1,28 @@
 # SJ (Seongjun) Kim 
-- Senior Software Developer (Go and cloud platforms) + MSEE with 6 years of experience.
+- Senior Software Engineer (Go and cloud platforms) + MSEE with 6 years of experience.
 - LinkedIn Profile: [https://www.linkedin.com/in/bus710/](https://www.linkedin.com/in/bus710/)
 - Carlsbad, CA, 92010
 
 ## Experiences
 
 **Twitter - SDE III (Sep 2022 - Jan 2023)**
-- Worked as a software developer in the audio space team.
+- Worked as a software engineer in the audio space team.
 - Developed Go based static analyzer tools to manage annotations in Go source codes for private information management in cloud DBs (DynamoDB and SQS). Managed CD/CI to add the tools as a part of developer workflow and pipeline.
  
 **Egnyte - SDE III (Jan 2021 - Jul 2022)**
-- Worked as a software developer in the Migrations team. 
+- Worked as a software engineer in the Migrations team. 
 - Developed Go based cloud services to interact with several types of clients and 3rd party cloud infrastructure platforms. Evaluated 3rd party packages/services for logging and monitoring. Developed client scripts for internal tests to interact with file sync services. Utilized Elastic-search and Kibana for event tracing. Involved DevOps tasks for CI/CD with Docker/k8s/Terraform/Helm.
 
 **HP Inc. - SDE II (May 2019 - Jan 2021)**
-- Worked as a software developer in the Retails solution team. 
+- Worked as a software engineer in the Retails solution team. 
 - Developed Go/Docker based services and Flutter (with MVVM and BLoC) based Android/Web apps for integrated customer services of retail stores. Utilized several protocols (REST, Websocket, MQTT, ZMQ, and gRPC) for massive but precise data transfer between job sites and cloud to collect data. Used containerization tools for MSA and distributed it to cloud services. Led the TDD culture in the team for high quality source code of the actual services.
 
 **Legrand-Wattstopper - SDE II (Carlsbad, CA / June 2016 - May 2019)**
-- Worked as a firmware/software developer in the Lightings device team. 
+- Worked as a firmware/software engineer in the Lightings device team. 
 - Developed STM32 and nRF52 based real time projects by using C. Worked on board bringing up for RTOS and BLE projects. Improved the protocols between high and low level systems as JSON to boost the communication efficiency. Developed test automation utilities with Go and internal GUI tools with Electron. Debugged/tested/deployed/documented software (+APIs) by using Delve, Postman, Docker, and Swagger/Swaggo. 
  
 **ABOV Semicon (and others) - SDE I (Seoul, Korea / Apr 2011 - Apr 2014)**
-- Worked as a software developer in the field service team. 
+- Worked as a firmware engineer in the field service team. 
 - Developed ABOV’s MCU based software by using C for automotive and digital appliance products. Designed digital circuits with 8 bit and 32 bit MCU system. 
  
 <div style="page-break-after: always;"></div>
