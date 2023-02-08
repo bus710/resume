@@ -15,7 +15,7 @@
 
 **HP Inc. - SDE II (May 2019 - Jan 2021)**
 - Worked as a software engineer in the Retails solution team. 
-- Developed Go/Docker based services and Flutter (with MVVM and BLoC) based Android/Web apps for integrated customer services of retail stores. Utilized several protocols (REST, Websocket, MQTT, ZMQ, and gRPC) for massive but precise data transfer between job sites and cloud to collect data. Used containerization tools for MSA and distributed it to cloud services. Led the TDD culture in the team for high quality source code of the actual services.
+- Developed Go/Docker based services and Flutter (with MVVM and BLoC) based Android/Web apps for integrated customer services of retail stores. Utilized several stacks for precise message transfer(REST, Websocket, gRPC, MQTT, Kafka and RabbitMQ) as well as containerization tools for Micro Services and Even Driven Architectures. Led the TDD culture in the team for high quality source code of the actual services.
 
 **Legrand-Wattstopper - SDE II (Carlsbad, CA / June 2016 - May 2019)**
 - Worked as a firmware/software engineer in the Lightings device team. 
