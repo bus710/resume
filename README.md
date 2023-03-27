@@ -1,5 +1,5 @@
 # SJ (Seongjun) Kim 
-- Senior Software Engineer (Go and cloud platforms) + MSEE with 6 years of experience.
+- Senior Software Engineer (Go, Elixir and cloud platforms) + MSEE with 6 years of experience.
 - LinkedIn Profile: [https://www.linkedin.com/in/bus710/](https://www.linkedin.com/in/bus710/)
 - Carlsbad, CA, 92010
 
