@@ -15,7 +15,7 @@
 
 **HP Inc. - SDE II (May 2019 - Jan 2021)**
 - Worked as a software engineer in the Retails solution team. 
-- Developed Go based cloud services for integrated customer services of retail stores. Utilized several stacks for precise message transfer(REST/Websocket/gRPC/MQTT/Kafka/RabbitMQ) as well as containerization/orchestration tools for Micro Services and Event Driven Architectures in AWS. 
+- Developed Go based cloud services for integrated customer services of retail stores. Utilized several stacks for precise message transfer(REST/Websocket/gRPC/MQTT/Kafka/RabbitMQ) as well as containerization/orchestration tools for microservices and Event Driven Architectures in AWS. 
 
 **Legrand-Wattstopper - SDE II (Carlsbad, CA / June 2016 - May 2019)**
 - Worked as a firmware/software engineer in the Lightings device team. 
