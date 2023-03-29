@@ -11,11 +11,11 @@
  
 **Egnyte - SDE III (Jan 2021 - Jul 2022)**
 - Worked as a software engineer in the Migrations team. 
-- Developed Go based cloud services to interact with several types of clients to migrate data in AWS/GCP storages. Evaluated 3rd party packages/services for logging and monitoring. Developed client scripts for internal tests to interact with file sync services. Utilized Elastic-search and Kibana for event tracing. Involved DevOps tasks for CI/CD with Docker/k8s/Terraform/Helm.
+- Developed Go based cloud services to interact with several types of clients to migrate data in AWS/GCP storages. Evaluated 3rd party packages/services for logging and monitoring. Developed client scripts for internal tests to interact with file sync services. Utilized Elastic-search and Kibana for event tracing. Involved containerization/orchestration tasks to help DevOps and Core storage services with tools such as Docker/K8S/Terraform.
 
 **HP Inc. - SDE II (May 2019 - Jan 2021)**
 - Worked as a software engineer in the Retails solution team. 
-- Developed Go/Docker based services and Flutter (with MVVM and BLoC) based Android/Web apps for integrated customer services of retail stores. Utilized several stacks for precise message transfer(REST, Websocket, gRPC, MQTT, Kafka and RabbitMQ) as well as orchestration tools for Micro Services and Event Driven Architectures in AWS. 
+- Developed Go based cloud services for integrated customer services of retail stores. Utilized several stacks for precise message transfer(REST/Websocket/gRPC/MQTT/Kafka/RabbitMQ) as well as containerization/orchestration tools for Micro Services and Event Driven Architectures in AWS. 
 
 **Legrand-Wattstopper - SDE II (Carlsbad, CA / June 2016 - May 2019)**
 - Worked as a firmware/software engineer in the Lightings device team. 
