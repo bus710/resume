@@ -1,5 +1,5 @@
-# SJ (Seongjun) Kim 
-- Senior Software Engineer (Go, Elixir and cloud platforms) + MSEE with 6 years of experience.
+## SJ (Seongjun) Kim 
+- Senior Software Engineer (Go, Erlang and Rust) + MSEE with 6 years of experience.
 - LinkedIn Profile: [https://www.linkedin.com/in/bus710/](https://www.linkedin.com/in/bus710/)
 - Carlsbad, CA, 92010
 
@@ -7,7 +7,7 @@
 
 **Twitter - SDE III (Sep 2022 - Jan 2023)**
 - Worked as a software engineer in the audio space team.
-- Developed Go based static analyzer tools to manage annotations in Go source codes for private information management in AWS DBs (DynamoDB, Kinesis, and SQS). Managed CD/CI to add the tools as a part of developer workflow and pipeline.
+- Developed Go based static analyzer tools to manage annotations of DB queries in Go source codes for private information management in AWS DBs (DynamoDB, Kinesis, and SQS). Managed CD/CI to add the tools as a part of developer workflow and pipeline. Wrote bash scripts to automate log streams to narrow down possible issues in transactions.
  
 **Egnyte - SDE III (Jan 2021 - Jul 2022)**
 - Worked as a software engineer in the Migrations team. 
