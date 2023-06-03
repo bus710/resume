@@ -1,5 +1,5 @@
 ## SJ (Seongjun) Kim 
-- Senior Software Engineer (Go, Erlang and Rust) + MSEE with 6 years of experience.
+- Senior Software Engineer (C, Rust, and Go) + MSEE with 6 years of experience.
 - LinkedIn Profile: [https://www.linkedin.com/in/bus710/](https://www.linkedin.com/in/bus710/)
 - Carlsbad, CA, 92010
 
