@@ -7,19 +7,19 @@
 
 **Twitter - SDE III (Sep 2022 - Jan 2023)**
 - Worked as a software engineer in the audio space team.
-- Developed Go based static analyzer tools to manage annotations of DB queries in Go source codes for private information management in AWS DBs (DynamoDB, Kinesis, and SQS). Managed CD/CI to add the tools as a part of developer workflow and pipeline. Wrote bash scripts to automate log streams to narrow down possible issues in transactions.
+- Developed Go based static analyzer tools to manage annotations of DB queries in Go source codes for private information management in AWS DBs (DynamoDB, Kinesis, and SQS). Managed CD/CI to add the tools as a part of developer workflow and pipeline. Wrote bash scripts to filter log streams to narrow down possible issues in transactions.
  
 **Egnyte - SDE III (Jan 2021 - Jul 2022)**
 - Worked as a software engineer in the Migrations team. 
-- Developed Go based cloud services to interact with several types of clients to migrate data in AWS/GCP storages. Evaluated 3rd party packages/services for logging and monitoring. Developed client scripts for internal tests to interact with file sync services. Utilized Elastic-search and Kibana for event tracing. Involved containerization/orchestration tasks to help DevOps and Core storage services with tools such as Docker/K8S/Terraform.
+- Developed Go based cloud services to interact with several types of clients to migrate data in AWS/GCP storages. Wrote client apps(react/svelte) and scripts for internal tests to interact with file sync services. Utilized Elastic-search and Kibana for event tracing. Involved containerization/orchestration tasks to help DevOps and Core storage services with tools such as Docker/K8S/Terraform.
 
 **HP Inc. - SDE II (May 2019 - Jan 2021)**
 - Worked as a software engineer in the Retails solution team. 
-- Developed Go based cloud services for integrated customer services of retail stores. Utilized several stacks for precise message transfer(REST/Websocket/gRPC/MQTT/Kafka/RabbitMQ) as well as containerization/orchestration tools for microservices and Event Driven Architectures in AWS. 
+- Developed Go based cloud services for integrated customer services of retail stores. Utilized several stacks for precise message transfer(REST/Websocket/gRPC/MQTT/Kafka/RabbitMQ) as well as containerization/orchestration tools for microservices and Event Driven Architectures in AWS. Developed React Native app for POS machine.
 
 **Legrand-Wattstopper - SDE II (Carlsbad, CA / June 2016 - May 2019)**
 - Worked as a firmware/software engineer in the Lightings device team. 
-- Developed STM32 and nRF52 based real time projects by using C. Worked on board bringing up for RTOS and BLE projects. Improved the protocols between high and low level systems as JSON to boost the communication efficiency. Developed test automation utilities with Go and internal GUI tools with Electron. Debugged/tested/deployed/documented software (+APIs) by using Delve, Postman, Docker, and Swagger/Swaggo. 
+- Developed STM32 and nRF52 based real time projects by using C. Worked on board bringing up for RTOS and BLE projects. Improved the protocols between high and low level systems as JSON to boost the communication efficiency. Developed test automation utilities with Go/Docker and internal GUI tools with React/Electron. 
  
 **ABOV Semicon (and others) - SDE I (Seoul, Korea / Apr 2011 - Apr 2014)**
 - Worked as a firmware engineer in the field service team. 
