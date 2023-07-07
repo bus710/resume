@@ -1,5 +1,5 @@
 ## SJ (Seongjun) Kim 
-- Senior Software Engineer (Rust, Go, and JS) + MSEE with 6 years of experience.
+- Software Engineer (Backend & Platform) + MSEE with 6 years of experience.
 - LinkedIn Profile: [https://www.linkedin.com/in/bus710/](https://www.linkedin.com/in/bus710/)
 - Carlsbad, CA, 92010
 
