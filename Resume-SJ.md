@@ -1,9 +1,11 @@
-### SJ (Seongjun) Kim 
+## SJ (Seongjun) Kim 
 - Software Engineer (Backend & Platform) + MSEE with 6 years of experience.
 - LinkedIn Profile: [https://www.linkedin.com/in/bus710/](https://www.linkedin.com/in/bus710/)
 - Carlsbad, CA, 92010
 
-### Experiences
+<br/>
+
+### Experiences (US)
 
 **Coinbase - SDE (Jun 2023 - Present)**
 - Working in an infra service development team.
@@ -25,11 +27,15 @@
 - Worked as a firmware/software engineer in the Lightings device team. 
 - Developed STM32 and nRF52 based real time projects by using C. Worked on board bringing up for RTOS and BLE projects. Improved the protocols between high and low level systems as JSON to boost the communication efficiency. Developed test automation utilities with Go/Docker and internal GUI tools with React/Electron. 
  
+<div style="page-break-after: always;"></div>
+
+### Experiences (KR)
+
 **ABOV Semicon (and others) - SDE I (Seoul, Korea / Apr 2011 - Apr 2014)**
 - Worked as a firmware engineer in the field service team. 
 - Developed ABOV’s MCU based software by using C for automotive and digital appliance products. Designed digital circuits with 8 bit and 32 bit MCU system. 
  
-<div style="page-break-after: always;"></div>
+<br/>
 
 ### Educations
 
@@ -41,10 +47,6 @@
 **Bachelor’s Degree, Electrical Engineering**
 - **Seoul National University of Science and Technology** (Seoul, Korea / Mar 2006 - Feb 2010)
 - Lab Activity: Project Integration Using ARM Based Linux System and AVR Microcontrollers for Industrial Applications.
-
-**C# Online Courses**
-- **University of California San Diego** (CA / Dec 2017 - Dec 2018)
-- Learned several topics from the basic syntax to the usage of ASP.net. 
 
 <br/>
 
