@@ -1,9 +1,13 @@
-## SJ (Seongjun) Kim 
+### SJ (Seongjun) Kim 
 - Software Engineer (Backend & Platform) + MSEE with 6 years of experience.
 - LinkedIn Profile: [https://www.linkedin.com/in/bus710/](https://www.linkedin.com/in/bus710/)
 - Carlsbad, CA, 92010
 
-## Experiences
+### Experiences
+
+**Coinbase - SDE (Jun 2023 - Present)**
+- Working in an infra service development team.
+- Writing Go code as well as some Terraform configurations.
 
 **Twitter - SDE III (Sep 2022 - Jan 2023)**
 - Worked as a software engineer in the audio space team.
@@ -11,11 +15,11 @@
  
 **Egnyte - SDE III (Jan 2021 - Jul 2022)**
 - Worked as a software engineer in the Migrations team. 
-- Developed Go based cloud services to interact with several types of clients to migrate data in AWS/GCP storages. Wrote client apps(react/svelte) and scripts for internal tests to interact with file sync services. Utilized Elastic-search and Kibana for event tracing. Involved containerization/orchestration tasks to help DevOps and Core storage services with tools such as Docker/K8S/Terraform.
+- Developed Go based cloud services to interact with several types of clients to migrate data in AWS/GCP storages. Wrote demo Flutter apps and scripts for internal tests to interact with file sync services. Utilized Elastic-search and Kibana for event tracing. Involved containerization/orchestration tasks to help DevOps and Core storage services with tools such as Docker/K8S/Terraform.
 
 **HP Inc. - SDE II (May 2019 - Jan 2021)**
 - Worked as a software engineer in the Retails solution team. 
-- Developed Go based cloud services for integrated customer services of retail stores. Utilized several stacks for precise message transfer(REST/Websocket/gRPC/MQTT/Kafka/RabbitMQ) as well as containerization/orchestration tools for microservices and Event Driven Architectures in AWS. Developed React Native apps for Android POS machines.
+- Developed Go based cloud services for integrated customer services of retail stores. Utilized several stacks for precise message transfer as well as containerization/orchestration tools for microservices and Event Driven Architectures in AWS. Developed Flutter apps for Android POS machines.
 
 **Legrand-Wattstopper - SDE II (Carlsbad, CA / June 2016 - May 2019)**
 - Worked as a firmware/software engineer in the Lightings device team. 
@@ -27,7 +31,7 @@
  
 <div style="page-break-after: always;"></div>
 
-## Educations
+### Educations
 
 **Master’s Degree, Electrical Computer Engineering**
 - **California State University, Los Angeles** (CA / Sep 2014 - Feb 2016)
@@ -44,7 +48,7 @@
 
 <br/>
 
-## Free/Open Source Software Projects
+### Free/Open Source Software Projects
 
 **Golang + VSCODE Development Environment Setup**
 - [https://github.com/bus710/golang-dev-env-setting](https://github.com/bus710/golang-dev-env-setting)
