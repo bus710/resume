@@ -1,5 +1,5 @@
 ## SJ (Seongjun) Kim 
-- Software Engineer (Cloud & Integrations) + MSEE with 7 years of professional experiences.
+- Software Engineer - backend, cloud, integrations for 7 years.
 - LinkedIn Profile: [https://www.linkedin.com/in/bus710/](https://www.linkedin.com/in/bus710/)
 - Carlsbad, CA, 92010
 
