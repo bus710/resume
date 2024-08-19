@@ -1,41 +1,37 @@
 ## SJ (Seongjun) Kim 
-- Software Engineer (Backend & Platform) + MSEE with 6 years of experience.
+- Software Engineer (Backend & Platform) + MSEE with 7 years of professional experiences.
 - LinkedIn Profile: [https://www.linkedin.com/in/bus710/](https://www.linkedin.com/in/bus710/)
 - Carlsbad, CA, 92010
 
 <br/>
 
-### Experiences (US)
+### Experiences
 
-**Coinbase - SDE (Jun 2023 - Present)**
-- Working in an infra service development team.
-- Writing Go code as well as some Terraform configurations.
+**Software Engineer - Cloud, Coinbase (Jun 2023 - Present)**
+- Working from the EAA team.
+- Writing Go code for the internal APIs within the help center supporting projects. Continuously updating k8s and infra configs per request.
 
-**Twitter - SDE III (Sep 2022 - Jan 2023)**
-- Worked as a software engineer from the audio space team.
-- Developed Go based static analyzer tools to manage annotations of DB queries in Go source codes for private information management in AWS DBs (DynamoDB, Kinesis, and SQS). Managed CD/CI to add the tools as a part of developer workflow and pipeline. Wrote bash scripts to filter log streams to narrow down possible issues in transactions.
+**Software Engineer III - Integrations, Twitter (Sep 2022 - Jan 2023)**
+- Worked from the Audio Space team.
+- Developed Go based lint tools to analyze struct/DB annotations. Managed CD/CI to add the tools as a part of developer workflow and pipeline.
  
-**Egnyte - SDE III (Jan 2021 - Jul 2022)**
-- Worked as a software engineer from the Migrations team. 
-- Developed Go based cloud services to interact with several types of clients to migrate data in AWS/GCP storages. Wrote demo Flutter apps and scripts for internal tests to interact with file sync services. Utilized Elastic-search and Kibana for event tracing. Involved containerization/orchestration tasks to help DevOps and Core storage services with tools such as Docker/K8S/Terraform.
+**Software Engineer III - Cloud, Egnyte (Jan 2021 - Jul 2022)**
+- Worked from the Migrations team. 
+- Developed Go based cloud services to manage massive file migration between on-premise and AWS/GCP storage services. Delivered self-managed k8s clusters to help international services.
 
-**HP Inc. - SDE II (May 2019 - Jan 2021)**
-- Worked as a software engineer from the Retails solution team. 
-- Developed Go based cloud services for integrated customer services of retail stores. Utilized several stacks for precise message transfer as well as containerization/orchestration tools for microservices and Event Driven Architectures in AWS. Developed Flutter apps for Android POS machines.
+**Software Engineer II - Cloud, HP (May 2019 - Jan 2021)**
+- Worked from the Retails Solutions team. 
+- Developed Go based cloud services for integrated customer services of retail stores. Delivered self-managed k8s cluster on AWS from PoC to production for HP POS systems.
 
-**Legrand-Wattstopper - SDE II (Carlsbad, CA / June 2016 - May 2019)**
-- Worked as a firmware/software engineer from the Lightings device team. 
-- Developed STM32 and nRF52 based real time projects by using C. Worked on board bringing up for RTOS and BLE projects. Improved the protocols between high and low level systems as JSON to boost the communication efficiency. Developed test automation utilities with Go/Docker and internal GUI tools with React/Electron. 
- 
-<div style="page-break-after: always;"></div>
+**Software Engineer - Integrations, Legrand (June 2016 - May 2019)**
+- Worked from the Lightings Control team. 
+- Developed Bluetooth MCU based real time applications using C. Delivered remote FOTA and control backend using Go/Docker/k8s. 
 
-### Experiences (KR)
-
-**ABOV Semicon (and others) - SDE I (Seoul, Korea / Apr 2011 - Apr 2014)**
-- Worked as a firmware engineer from the field service team. 
+**Software Engineer I - Integrations, ABOV Semicon and others (Apr 2011 - Apr 2014)**
+- Worked from the Test Automations team. 
 - Developed ABOV’s MCU based software by using C for automotive and digital appliance products. Designed digital circuits with 8 bit and 32 bit MCU system. 
  
-<br/>
+<div style="page-break-after: always;"></div>
 
 ### Educations
 
