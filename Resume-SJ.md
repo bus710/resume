@@ -65,4 +65,4 @@
 ### Keywords (but not limited)
 
 - Languages: Go, C, Zig, Javascript, Python
-- Interests: Docker, K8S, Terraform, AWS, GCP, Git, F/OSS
+- Skills: Debian, Arch, Docker, K8S, Terraform, AWS, GCP, Git, F/OSS
