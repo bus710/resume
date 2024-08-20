@@ -5,7 +5,7 @@
 
 <br/>
 
-### Experiences
+### Experience
 
 **Software Engineer - Coinbase (Jun 2023 - Present)**
 - Working from the EAA team.
@@ -13,7 +13,7 @@
 
 **Software Engineer III - Twitter (Sep 2022 - Jan 2023)**
 - Worked from the Audio Space team.
-- Developed Go based lint tools to analyze struct/DB annotations. Managed CD/CI to add the tools as a part of developer workflow and pipeline.
+- Developed Go based lint tools to analyze struct/DB annotations. Managed CI/CD to add the tools as a part of developer workflow and pipeline.
  
 **Software Engineer III - Egnyte (Jan 2021 - Jul 2022)**
 - Worked from the Migrations team. 
@@ -33,7 +33,7 @@
  
 <div style="page-break-after: always;"></div>
 
-### Educations
+### Education
 
 **Master’s Degree, Electrical Computer Engineering**
 - **California State University, Los Angeles** (CA / Sep 2014 - Feb 2016)
@@ -46,7 +46,7 @@
 
 <br/>
 
-### Free/Open Source Software Projects
+### Projects
 
 **Golang + VSCODE Development Environment Setup**
 - [https://github.com/bus710/golang-dev-env-setting](https://github.com/bus710/golang-dev-env-setting)
@@ -59,3 +59,10 @@
 **Zephyr RTOS Development in Linux**
 - [https://github.com/bus710/zephyr-rtos-development-in-linux](https://github.com/bus710/zephyr-rtos-development-in-linux)
 - A tutorial to install Zephyr RTOS development setup in Linux
+
+<br/>
+
+### Keywords (but not limited)
+
+- Languages: Go, C, Zig, Javascript, Python
+- Interests: Docker, K8S, Terraform, AWS, GCP, Git, F/OSS
