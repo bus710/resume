@@ -11,7 +11,7 @@
 In the EAA Integrations team, writing Go based services for the internal APIs within the help center supporting projects. Continuously updating k8s and infra configs per request. Leading junior engineers to share daily tasks, trouble shoot methods, and code reviews.
 
 **Software Engineer III - Twitter (Sep 2022 - Jan 2023)**  
-In the Audio Space team, developed Go based lint tools to impove the pipeline. Managed CI/CD scripts to add the tools as a part of developer workflow and privacy regulation requested by FTC.
+In the Audio Space team, developed Go based lint tools to improve the pipeline. Managed CI/CD scripts to add the tools as a part of developer workflow and privacy regulation requested by FTC.
  
 **Software Engineer III - Egnyte (Jan 2021 - Jul 2022)**  
 In the Migrations team, developed Go based cloud services to manage massive file migration between on-premise and cloud storage services. Delivered self-managed k8s clusters to help scalable services for Peta byte file transfer. Led junior engineers to tackle the technical issues from cross-platform tool development for various server OSes.
