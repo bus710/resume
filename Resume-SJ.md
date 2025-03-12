@@ -7,7 +7,7 @@
 
 ### Experience
 
-**Software Engineer - Coinbase (Jun 2023 - Present)**
+**Software Engineer III - Coinbase (Jun 2023 - Present)**
 - Working as a part of the EAA team. Writing Go based services for the internal APIs within the help center supporting projects. Continuously updating k8s and infra configs per request.
 
 **Software Engineer III - Twitter (Sep 2022 - Jan 2023)**
@@ -19,7 +19,7 @@
 **Software Engineer II - HP (May 2019 - Jan 2021)**
 - Worked as a part of the Retails Solutions team. Developed Android tablet applications for integrated customer services of retail stores. Delivered Linux device driver for HP POS and printer systems.
 
-**Software Engineer - Legrand (June 2016 - May 2019)**
+**Software Engineer I - Legrand (June 2016 - May 2019)**
 - Worked as a part of the Lightings Control team. Developed baremetal/RTOS firmware of nRF52/STM32 MCUs using C. Delivered MQTT/CoAP services using Python/Golang.
 
 **Software Engineer I - ABOV Semicon and others (Apr 2011 - Apr 2014)**
