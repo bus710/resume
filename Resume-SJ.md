@@ -1,5 +1,5 @@
 ## SJ (Seongjun) Kim 
-- Software Engineer - backend, cloud, integrations for 7 years.
+- Software Engineer - Linux, embedded, firmware, backend, cloud, integrations for 8 years.
 - LinkedIn Profile: [https://www.linkedin.com/in/bus710/](https://www.linkedin.com/in/bus710/)
 - Carlsbad, CA, 92010
 
@@ -8,28 +8,22 @@
 ### Experience
 
 **Software Engineer - Coinbase (Jun 2023 - Present)**
-- Working from the EAA team.
-- Writing Go code for the internal APIs within the help center supporting projects. Continuously updating k8s and infra configs per request.
+- Working as a part of the EAA team. Writing Go based services for the internal APIs within the help center supporting projects. Continuously updating k8s and infra configs per request.
 
 **Software Engineer III - Twitter (Sep 2022 - Jan 2023)**
-- Worked from the Audio Space team.
-- Developed Go based lint tools to analyze struct/DB annotations. Managed CI/CD to add the tools as a part of developer workflow and pipeline.
+- Worked as a part of the Audio Space team. Developed Go based lint tools to impove the pipeline. Managed CI/CD scripts to add the tools as a part of developer workflow and privacy regulation.
  
 **Software Engineer III - Egnyte (Jan 2021 - Jul 2022)**
-- Worked from the Migrations team. 
-- Developed Go based cloud services to manage massive file migration between on-premise and AWS/GCP storage services. Delivered self-managed k8s clusters to help international services.
+- Worked as a part of the Migrations team. Developed Go based cloud services to manage massive file migration between on-premise and cloud storage services. Delivered self-managed k8s clusters to help scalable services.
 
 **Software Engineer II - HP (May 2019 - Jan 2021)**
-- Worked from the Retails Solutions team. 
-- Developed Go based cloud services for integrated customer services of retail stores. Delivered self-managed k8s cluster on AWS from PoC to production for HP POS systems.
+- Worked as a part of the Retails Solutions team. Developed Android tablet applications for integrated customer services of retail stores. Delivered Linux device driver for HP POS and printer systems.
 
 **Software Engineer - Legrand (June 2016 - May 2019)**
-- Worked from the Lightings Control team. 
-- Developed Bluetooth MCU based real time applications using C. Delivered remote FOTA and control backend using Go/Docker/k8s. 
+- Worked as a part of the Lightings Control team. Developed baremetal/RTOS firmware of nRF52/STM32 MCUs using C. Delivered MQTT/CoAP services using Python/Golang.
 
 **Software Engineer I - ABOV Semicon and others (Apr 2011 - Apr 2014)**
-- Worked from the Test Automations team. 
-- Developed ABOV’s MCU based software by using C for automotive and digital appliance products. Designed digital circuits with 8 bit and 32 bit MCU system. 
+- Worked as a part of the Test Automations team. Developed baremetal/RTOS firmware of ABOV’s MCU series using C for automotive and digital appliance products. Designed digital circuits with 8 bit and 32 bit MCU system. 
  
 <div style="page-break-after: always;"></div>
 
@@ -48,21 +42,25 @@
 
 ### Projects
 
-**Golang + VSCODE Development Environment Setup**
+**How to use libxev with Zig 0.14 based project**
+- [https://gist.github.com/bus710/351202009ab2a040ae0b0308bb3f2f4a](https://gist.github.com/bus710/351202009ab2a040ae0b0308bb3f2f4a)
+- A short step by step note to demo the package management of Zig.
+
+**Golang + Vscode development environment setup**
 - [https://github.com/bus710/golang-dev-env-setting](https://github.com/bus710/golang-dev-env-setting)
 - Emerging high performance programming language, Go's installation, kicking a project off, IDE setting, and debugging.
  
 **Matrix2 - a toy project for Sense Hat with Go/Flutter app**
 - [https://github.com/bus710/matrix2](https://github.com/bus710/matrix2)
-- A toy project that provides its Flutter/web front-end and Go server to control the LED matrix of Sense Hat
+- A toy project that provides its Flutter/web front-end and Go server to control the LED matrix of Sense Hat.
 
-**Zephyr RTOS Development in Linux**
+**Zephyr RTOS development in Linux**
 - [https://github.com/bus710/zephyr-rtos-development-in-linux](https://github.com/bus710/zephyr-rtos-development-in-linux)
-- A tutorial to install Zephyr RTOS development setup in Linux
+- A tutorial to install Zephyr RTOS development setup in Linux.
 
 <br/>
 
 ### Keywords (but not limited)
 
-- Languages: Go, C, Zig, Javascript, Python
-- Skills: Debian, Arch, Docker, K8S, Terraform, AWS, GCP, Git, F/OSS
+- Languages: Go, C, Zig, Rust, Javascript, Python
+- Skills: Debian, Arch, Docker, K8S, Terraform, AWS, GCP, Git, F/OSS, RTOS
